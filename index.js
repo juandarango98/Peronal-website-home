@@ -1,4 +1,5 @@
 "use strict";
+//funcion que me envia la informacion del usuario a mi correo
 function sendEmail(Name,email) {
 	Email.send({
 	Host: "smtp.gmail.com",
@@ -14,6 +15,7 @@ function sendEmail(Name,email) {
     );
     sendEmail2(Name,email);
 }
+//funcion que le envia una notificacion al usuario de que su informacion fue recibida
 function sendEmail2(Name,email) {
 	Email.send({
 	Host: "smtp.gmail.com",
