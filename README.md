@@ -1,2 +1,24 @@
-# Peronal-website-home
-Esta es mi página personal, está compuesta por 4 páginas: Home, about, academic stuff y contact. Home es la página principal, donde solo hay una foto mia de fondo y las tabs de navegación. About y Academic stuff son dos páginas con una estructura muy pareida, creadas con estilos de bootstrap y responsive para que puedan funcionar en cualquier dispositivo sin problema. En estas páginas se encuentra mi información personal y académica. En la última página, contact, se implementó a través de JavaScript y el servidor de correos smtp de google, un formulario muy sencillo que permite enviar un correo del usuario hacia mi correo personal y el usuario recibe un correo de notifiación.
+# Peronal-website-home Juan DIego Arango
+
+El objetivo de este proyecto es crear una pagina web personal, que me permita presentarme de forma facil y dinamica. A parte, que a traves dde la creacion de esta pagina me pueda familiarizar con las tecnologias: CSS, JS, HTML.
+
+![Screenshot Pag Web](https://github.com/juandarango98/Peronal-website-home/blob/master/images/Captura.png)
+
+# Tecnologias usadas
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+
+
+# Despliegue
+El despliegue de la pagina es muy sencillo, ya que se basa en su mayoria en HTML estatico. Para desplegarla la pagina solo basta con deplegar cualquier servidor web, Ej:
+```
+cd Peronal-website-home
+reload -b
+```
+# Link a la pagina principal de Juan DIego Arango Peronal-website-home
+
+https://juandarango98.github.io/Peronal-website-home/index.html
+# Licencia
+El autor del proyecto Peronal-website-home es [Juan Diego Arango Ramos](https://github.com/juandarango98) y la licencia de este proyecto es licencia MIT. (http://opensource.org/licenses/MIT) 
