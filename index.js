@@ -1,3 +1,4 @@
+"use strict";
 function sendEmail(Name,email) {
 	Email.send({
 	Host: "smtp.gmail.com",
