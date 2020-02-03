@@ -1,0 +1,72 @@
+
+/* html {
+    background-color: white;
+  }
+  body,*,*:before,*:after{
+    box-sizing: border-box;
+  }
+  html,body{
+    font-family: "Helvetica neue", Helvetica, sans-serif;
+    color: #474747;
+  }
+  h1,h2,h3,h4,h5,h6{
+    font-family: 'Economica', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+  
+  }
+  
+  .page-header {
+    border: 1px solid red;
+  }
+  .page-header > div{
+    border: 1px solid yellow;
+  }
+  header{
+    font-family: 'Economica', sans-serif;
+    font-size: 40px;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: brown;
+    text-align:center;
+    text-shadow: 3px 3px 1px black;
+  }
+  p {
+    color:yellow;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+div:not(#nombre) .parte{
+    color:red;
+}
+*/
+
+img{
+  width: 100%;
+  height: auto;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Economica', sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+
+}
+.hobbies{
+  background-color: rgb(181, 255, 227);
+  margin: 20px;
+  padding: 10px;
+}
+.jumbotron{
+  height: 35%;
+  position: absolute;
+  bottom: 10px;
+   opacity: 0.7;
+}
+
